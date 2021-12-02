@@ -89,6 +89,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DevoirPlugin.cs" />
     <Compile Include="EtudiantPlugin.cs" />
     <Compile Include="MatierePlugin.cs" />
     <Compile Include="Utilities.cs" />

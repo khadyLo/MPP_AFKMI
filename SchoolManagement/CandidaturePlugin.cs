@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SchoolManagement
 {
-    public class CandidaturePlugin : IPlugin
+    internal class CandidaturePlugin : IPlugin
     {
         public void Execute(IServiceProvider serviceProvider)
         {
